@@ -1,1 +1,3 @@
-console.log("Bira
+console.log("Bira");
+
+const a=20;
