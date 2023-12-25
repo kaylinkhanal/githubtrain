@@ -1,1 +1,1 @@
-console.log(["first", "second", "third"])
+console.log(["first", "second", "third"].push("fourth"))
