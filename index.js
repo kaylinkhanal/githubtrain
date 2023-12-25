@@ -1,1 +1,2 @@
-const a = 20;
+console.log("hi")
+const a = 10;
