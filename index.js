@@ -1,2 +1,2 @@
 console.log("Hi, Iam narayan sapkota");
-const a = 20
+const a = 100;
